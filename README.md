@@ -1,6 +1,5 @@
-## APLICATIVO PARA REGISTRO DE PRODUTOS
+## 📦 APLICATIVO PARA REGISTRO DE PRODUTOS
 
-# 📦 App de Registro de Produtos
 
 Este é um aplicativo mobile desenvolvido com **React Native** que permite o **registro, visualização e gerenciamento de produtos**. Ideal para lojistas, pequenos empreendedores ou controle de estoque pessoal.
 
@@ -25,4 +24,4 @@ Este é um aplicativo mobile desenvolvido com **React Native** que permite o **r
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/laurindodumba/Registro-de-produtos-com-React-Native
