@@ -7,7 +7,7 @@ Este é um aplicativo mobile desenvolvido com **React Native** que permite o **r
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
-- [TypeScript ou JavaScript] *(dependendo do seu projeto)*
+- [TypeScript ]
 - [React Navigation](https://reactnavigation.org/) (para navegação entre telas)
 - [AsyncStorage](https://react-native-async-storage.github.io/async-storage/) (para armazenar dados localmente)
 
